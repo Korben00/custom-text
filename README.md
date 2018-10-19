@@ -1,5 +1,7 @@
 # custom-text  
 
+[![GuardRails badge](https://badges.production.guardrails.io/Korben00/custom-text.svg)](https://www.guardrails.io)
+
 A simple plugin that demonstrates a way to replace text.  
 So simple, that the plugin.rb file contains nothing but comments!  
 And there are only 2 other files in config/locales/  
